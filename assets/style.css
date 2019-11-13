@@ -1,0 +1,35 @@
+
+.nav {
+    background-color: #666666;
+    color: blue;
+    list-style: none;
+    text-align: right;
+    padding: 20px 0 20px 0;
+
+    
+}
+
+.nav li {
+    display: inline-block;
+    padding-right: 50px;
+    font-size: 24px;
+
+    
+}
+
+.nav li a {
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
+.nav li a:hover {
+    color: red;
+
+}
+
+#index {
+    background-image: url("https://mc180g.github.io/MattColson/images/blue_pink_triangles_wallpaper.jpg");
+    font-family: 'Righteous', cursive;
+
+}

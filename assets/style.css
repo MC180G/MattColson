@@ -30,6 +30,7 @@
 
 #contact {
     background-image: url("https://mc180g.github.io/MattColson/images/blue_pink_triangles_wallpaper.jpg");
+    background-size: 100%;
     font-family: 'Righteous', cursive;
 
 }
@@ -37,4 +38,28 @@
 .hmu {
     background-color: lightblue;
     color: red;
+}
+
+#portf {
+    background-image: url("business_wallpaper_indigo.jpeg");
+    font-family: 'Big Shoulders Text', cursive;
+}
+
+#contact-btns {
+
+    #slack {
+        background-image: url("https://mc180g.github.io/MattColson/images/clear-slack-icon.png");
+    }
+
+    #facebook {
+        background-image: url("https://mc180g.github.io/MattColson/images/fb-icon.png");
+    }
+
+    #linkedin {
+        background-image: url("https://mc180g.github.io/MattColson/images/linkedin-icon.png");
+    }
+
+    #youtube {
+        background-image: url("https://mc180g.github.io/MattColson/images/youtube-icon.png");
+    }
 }

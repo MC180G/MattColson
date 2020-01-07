@@ -2,6 +2,7 @@
 .nav {
     background-color: #666666;
     color: blue;
+    font-family: 'Cute Font';
     list-style: none;
     text-align: right;
     padding: 20px 0 20px 0;
@@ -31,6 +32,11 @@
 #index {
     background-image: url("https://mc180g.github.io/MattColson/images/smoke_wallpaper_blue.jpeg");
     background-size: 100%;
+  
+}
+
+#bio {
+    font-size: 14px;
     font-family: 'Shadows Into Light', cursive;
 }
 

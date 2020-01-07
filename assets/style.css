@@ -29,9 +29,9 @@
 }
 
 #index {
-    background-image: url("https://mc180g.github.io/MattColson/images/marble-wallpaper.jpg");
+    background-image: url("https://mc180g.github.io/MattColson/images/smoke_wallpaper_blue.jpeg");
     background-size: 100%;
-    font-family: 'Righteous', cursive;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 #contact {
@@ -40,10 +40,21 @@
     font-family: 'Righteous', cursive;
 
 }
+/* 
+*---------Font Options-------------*
+Big Shoulders Text
+Cute Font
+Righteous
+Shadows Into Light
+Yeon Sung
+ZCOOL QingKe HuangYou
+ */
 
 .hmu {
     background-color: lightblue;
     color: red;
+    width: 30%;
+    
 }
 
 #portf {
@@ -51,11 +62,11 @@
     font-family: 'Big Shoulders Text', cursive;
 }
 
-#contact-btns {
+#contact-btns 
 
-    #slack [
+    #slack {
         background-image: url("https://mc180g.github.io/MattColson/images/clear-slack-icon.png");
-    ]
+    }
 
     #facebook {
         background-image: url("https://mc180g.github.io/MattColson/images/fb-icon.png");
@@ -68,4 +79,3 @@
     #youtube {
         background-image: url("https://mc180g.github.io/MattColson/images/youtube-icon.png");
     }
-}

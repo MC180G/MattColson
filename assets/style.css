@@ -40,6 +40,10 @@
     font-family: 'Shadows Into Light', cursive;
 }
 
+#contact-btns {
+    display: inline;
+}
+
 #contact {
     background-image: url("https://mc180g.github.io/MattColson/images/blue_pink_triangles_wallpaper.jpg");
     background-size: 100%;

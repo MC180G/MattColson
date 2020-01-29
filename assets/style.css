@@ -1,38 +1,13 @@
-
-.nav {
-    background-color: #666666;
-    color: blue;
-    font-family: 'Cute Font';
-    list-style: none;
-    text-align: right;
-    padding: 20px 0 20px 0;
-
-    
-}
-
-.nav li {
-    display: inline-block;
-    padding-right: 50px;
-    font-size: 24px;
-
-    
-}
-
-.nav li a {
-    text-decoration: none;
-    color: whitesmoke;
-
-}
-
-.nav li a:hover {
-    color: red;
-
-}
-
 #index {
     background-image: url("https://mc180g.github.io/MattColson/images/smoke_wallpaper_blue.jpeg");
     background-size: 100%;
   
+}
+
+h1 {
+    font-size: medium;
+    font-weight: 300;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 #bio {

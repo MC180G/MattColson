@@ -13,6 +13,8 @@ h1 {
 #bio {
     font-size: 14px;
     /* font-family: 'Cute Font', cursive; */
+    margin-right: 15px;
+    margin-top: 30px;
 }
 
 #contact-btns {

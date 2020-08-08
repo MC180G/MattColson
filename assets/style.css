@@ -1,5 +1,5 @@
 #index {
-    background-image: url("https://mc180g.github.io/MattColson/images/smoke_wallpaper_blue.jpeg");
+    background-image: url("https://mc180g.github.io/MattColson/images/LIRI.jpg");
     background-size: 100%;
   
 }
@@ -49,8 +49,6 @@ ZCOOL QingKe HuangYou
     font-family: 'Big Shoulders Text', cursive;
 }
 
-#contact-btns 
-
     #slack {
         background-image: url("https://mc180g.github.io/MattColson/images/clear-slack-icon.png");
     }
@@ -61,4 +59,8 @@ ZCOOL QingKe HuangYou
 
     #youtube {
         background-image: url("https://mc180g.github.io/MattColson/images/youtube-icon.png");
+    }
+
+    .btn {
+        margin-bottom: 12px;
     }
